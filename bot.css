@@ -258,10 +258,6 @@ div.level.earned.ep .label {
     border-radius: 50%;
     background: #36d04f;
 }
-#dj-booth {
-    background: url('https://i.imgur.com/w5S4r1D.png') no-repeat 0px 135px;
-    left: 265px;
-}
 #dashboard.app-left.communities {
     background: rgba(28, 31, 37, 0.8);
 }
