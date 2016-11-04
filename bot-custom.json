@@ -1,8 +1,8 @@
 {
-   "room": "Move-it Portugal",
-   "author": "Tugatron",
+   "room": "Brasileiríssimos",
+   "author": "-Adriana-,
    "icon": null,
-   "css": "https://rawgit.com/Perere128/MIP/master/bot.css",
+   "css": "https://rawgit.com/AwayShift/Brasileirissimos/master/bot.css",
    "rules": {
       "allowAutorespond": true,
       "allowAutowoot": true,
