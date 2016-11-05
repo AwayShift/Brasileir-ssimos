@@ -174,10 +174,10 @@ div.level.earned.ep .label {
     background: rgba(1, 163, 17, 0.27) !important;
 }
 #footer .bar-button .section .chevron:after {
-    background :#36d04f;
+    background :#ffffff;
 }
 #footer .bar-button .section .chevron:before {
-    background: #36d04f;
+    background: #ffffff;
 }
 #footer-user .info {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.72) 0,rgba(8, 14, 8, 0.75) 100%) !important;
