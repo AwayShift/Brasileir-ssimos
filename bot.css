@@ -1,13 +1,13 @@
 /* CORES CHAT */
 /* HOST */
 #user-lists .group.host {
-	color: #DB182E;
+	color: #009ACD;
 	top: 1px;
 }
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #DB182E !important;
+	color: #009ACD !important;
 }
 #user-lists .group {
     border: none !important;
@@ -15,34 +15,34 @@
 }
 /* COORDENADOR */
 #user-lists .group.manager {
-	color: #EF5636;
+	color: #FFFF00;
 }
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #EF5636 !important;
+	color: #FFFF00 !important;
 }
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #EF5636 !important;
+	color: #FFFF00 !important;
 }
 /* SEGURANÇA */
 #user-lists .group.bouncer {
-	color: #05ABE4;
+	color: #FFFF00;
 }
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #05ABE4 !important;
+	color: #FFFF00 !important;
 }
 /* DJ RESIDENT */
 #user-lists .group.dj {
-	color: #7936E8;
+	color: #32CD32;
 }
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
 #dialog-user-role .role-menu .menu ul .dj span {
-	color: #7936E8 !important;
+	color: #32CD32 !important;
 }
 /* BG Leveis */
 div.level.earned.ep .label {
@@ -262,13 +262,13 @@ div.level.earned.ep .label {
     background: rgba(28, 31, 37, 0.8);
 }
 .icon {
-    background-image: url('http://i.imgur.com/vqbG2OE.png');
+    background-image: url('http://i.imgur.com/kHhkDUc.png');
 }
 .icon-radiant-clearchat {
     position: absolute;
     width: 30px;
     height: 30px;
-    background: url('http://i.imgur.com/LRlaNVC.png') !important;
+    background: url('http://i.imgur.com/iDbuEOF.png') !important;
 }
 #rcs-progress-container .bar {
     background-color: #36d04f !important;
