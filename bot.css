@@ -257,15 +257,6 @@ div.level.earned.ep .label {
 #dashboard.app-left.communities {
     background: rgba(28, 31, 37, 0.8);
 }
-.icon {
-    background-image: url('http://i.imgur.com/jI3QN3W.png');
-}
-.icon-radiant-clearchat {
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    background: url('http://i.imgur.com/iDbuEOF.png') !important;
-}
 #rcs-progress-container .bar {
     background-color: #36d04f !important;
 }
@@ -481,18 +472,3 @@ background: #aa74ff;
 #meh .bottom, #meh.selected {
 background: #c42e3b;
 }
-/* Logo sala
-.icon-room {
-    background: url(http://i.imgur.com/H2f7yl7.png) no-repeat;
-    width: 0px;
-    height: 0px;
-    background-size: 65%;
-}
-#room-bar .icon-room {
-    top: 8px;
-    left: 10px;
-}
-i.icon.icon-room {
-    width: 130px;
-    height: 50px;
-} */
