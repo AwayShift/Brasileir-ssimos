@@ -472,3 +472,13 @@ background: #aa74ff;
 #meh .bottom, #meh.selected {
 background: #c42e3b;
 }
+/* Logo Sala */
+#room-name span {
+display: none;}
+#room-name:after {
+position: relative;
+    top: -14px;
+    left: px;
+    content: url(https://i.imgur.com/N32vt0R.png);}
+#room-bar .icon-room {
+display: none !important;}
