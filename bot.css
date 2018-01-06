@@ -60,7 +60,7 @@ div.level.earned.ep .label {
 }
 /*Info de User*/
 #user-rollover {
-    background: rgba(0,0,0,.4);
+    background: rgba(0,0,0,.6);
 }
 #user-rollover .info {
     background: rgba(0,0,0,.1);
