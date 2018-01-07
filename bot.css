@@ -482,3 +482,15 @@ position: relative;
     content: url(https://i.imgur.com/N32vt0R.png);}
 #room-bar .icon-room {
 display: none !important;}
+/* Menu configurações da sala */
+#room-settings {
+    background: url(https://i.imgur.com/jVegfN3.png) no-repeat !important;
+    background-size: cover !important;
+}
+#room-settings-menu {
+    background: #021003 !important;
+    opacity: 0.40;
+    filter: alpha(opacity=80);
+    border-radius: 0x;}
+#room-settings .general-settings {
+    background: rgba(14, 14, 14, 0.7);}
